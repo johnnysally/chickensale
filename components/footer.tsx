@@ -6,7 +6,7 @@ export function Footer() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-lg font-semibold mb-4 text-sidebar-primary">Thika Pottery Studio</h3>
+            <h3 className="text-lg font-semibold mb-4 text-sidebar-primary">Mkulima Farm</h3>
             <p className="text-sm text-sidebar-foreground/80">
               Handcrafted pottery made with passion and skill. Each piece is unique and tells its own story.
             </p>
