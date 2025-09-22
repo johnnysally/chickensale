@@ -62,7 +62,7 @@ export function Footer() {
 
         <div className="border-t border-sidebar-border mt-8 pt-8 text-center">
           <p className="text-sm text-sidebar-foreground/60">
-            © 2024 Thika Pottery Studio. All rights reserved. Made with ❤️ in Kenya.
+            © 2025 Thika Pottery Studio. All rights reserved. Made with ❤️ in Kenya.
           </p>
         </div>
       </div>
