@@ -54,7 +54,7 @@ export function Footer() {
             <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
             <div className="space-y-2 text-sm text-sidebar-foreground/80">
               <p>Thika, Kenya</p>
-              <p>+254 700 000 000</p>
+              <p>+254 727 439 707</p>
               <p>info@thikapottery.com</p>
             </div>
           </div>
