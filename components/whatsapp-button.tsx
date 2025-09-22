@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button"
 export function WhatsAppButton() {
   const openWhatsApp = () => {
     const message = "Hi! I'm interested in your chicken products. Can you help me?"
-    const whatsappUrl = `https://wa.me/254700000000?text=${encodeURIComponent(message)}`
+    const whatsappUrl = `https://wa.me/254 727 439 707?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
   }
 
