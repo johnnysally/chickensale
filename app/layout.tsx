@@ -7,11 +7,11 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Thika Pottery Studio - Handcrafted Pottery & Ceramics",
+  title: "Mkulima Farm - Premium Chickens & Poultry Products",
   description:
-    "Discover beautiful handcrafted pottery and ceramics from Thika. Custom pottery, decorative pieces, and functional ceramics made with passion and skill.",
+    "Discover quality chickens and fresh poultry products from Mkulima Farm. Premium layers, broilers, Kienyeji chickens, fresh eggs, and day-old chicks raised with care in Thika, Kenya.",
   generator: "v0.app",
-  keywords: "pottery, ceramics, handcrafted, Thika, Kenya, custom pottery, decorative pottery",
+  keywords: "chickens, poultry, Mkulima Farm, Thika, Kenya, layers, broilers, eggs, day-old chicks",
 }
 
 export default function RootLayout({
