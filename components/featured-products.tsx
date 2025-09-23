@@ -51,7 +51,7 @@ const products = [
 export function FeaturedProducts() {
   const openWhatsApp = (productName: string) => {
     const message = `Hi! I'm interested in purchasing ${productName}. Could you please provide more details about availability and pricing?`
-    const whatsappUrl = `https://wa.me/254700000000?text=${encodeURIComponent(message)}`
+    const whatsappUrl = `https://wa.me/254727439707?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
   }
 

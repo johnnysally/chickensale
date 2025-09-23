@@ -7,7 +7,7 @@ import { MapPin, Phone, Mail, Clock } from "lucide-react"
 export function Contact() {
   const openWhatsApp = () => {
     const message = "Hi! I'd like to know more about your pottery products and services."
-    const whatsappUrl = `https://wa.me/254700000000?text=${encodeURIComponent(message)}`
+    const whatsappUrl = `https://wa.me/254727439707?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
   }
 
@@ -45,7 +45,7 @@ export function Contact() {
               <CardTitle className="text-lg">Phone</CardTitle>
             </CardHeader>
             <CardContent>
-              <p className="text-muted-foreground">+254 700 000 000</p>
+              <p className="text-muted-foreground">+254 727 439 707</p>
               <Button variant="link" className="text-primary p-0 h-auto text-sm sm:text-base" onClick={openWhatsApp}>
                 Call Now
               </Button>
